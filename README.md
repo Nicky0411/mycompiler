@@ -1,2 +1,2 @@
 # mycompiler
-a compiler toy project
+Principles of Compilers hw - a compiler toy project
